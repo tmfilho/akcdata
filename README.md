@@ -3,7 +3,7 @@ This data set contains information about 277 breeds and was extracted from the [
 
 ## Data dictionary
 
-The dataset contains 20 features of different types, including textual, numerical and categorical data. The Table below describes these features.
+The dataset contains 20 features of different types, including textual, numerical and categorical data. Height, weight and life expectancy appear as [min, max] intervals. The Table below describes these features.
 
 
 |  #  | column | description | example |
