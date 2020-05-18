@@ -2,4 +2,4 @@ theme: jekyll-theme-dinky
 show_downloads: "true"
 github:
   zip_url: https://github.com/tmfilho/akcdata/zipball/master
-  csv_url: https://github.com/tmfilho/akcdata/blob/master/data/akc-data-latest.csv
+  csv_url: https://raw.githubusercontent.com/tmfilho/akcdata/master/data/akc-data-latest.csv
